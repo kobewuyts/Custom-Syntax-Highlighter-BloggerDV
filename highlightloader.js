@@ -7,7 +7,7 @@ try
  catch(e)
  {
   var elem = document.createElement('SCRIPT');
-  elem.src="INSERT LINK TOT HIGHLIGHT.JS";
+  elem.src="https://raw.github.com/kobewuyts/Custom-Syntax-Highlighter-BloggerDV/master/highlighter.js";
   var theBody = document.getElementsByTagName('body')[0];
   theBody.appendChild(elem);
  }
