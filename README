@@ -1,0 +1,9 @@
+Custom-Syntax-Highlighter-BloggerDV
+
+A Syntax Highlighter for Blogger Dynamic Views, using Alex Gorbatchev's SyntaxHighlighter
+https://github.com/alexgorbatchev/SyntaxHighlighter
+
+Credit obviously goes to Alex Gorbatchev for making this.
+Also to Crux Framework Blog and Coding Thought Blog for aiding me and making this conversion a bit easier.
+http://blog.cruxframework.org/2011/10/easy-code-syntax-highlight-on-blogger.html
+http://codingthought.blogspot.be/2012/04/syntax-highlighting-in-blogger-dynamic.html
