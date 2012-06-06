@@ -5,6 +5,10 @@
  * SyntaxHighlighter is donationware. If you are using it, please donate.
  * http://alexgorbatchev.com/SyntaxHighlighter/donate.html
  *
+ * Merged and recompiled by Kobe Wuyts
+ * http://kobewuyts.blogspot
+ * http://github.com/kobewuyts
+ *
  * @version
  * 3.0.83 (July 02 2010)
  * 

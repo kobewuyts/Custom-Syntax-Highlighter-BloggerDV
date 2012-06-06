@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Custom-Syntax-Highlighter-BloggerDV</title>
+</head>
+
+<body>
+
+<h1>Custom-Syntax-Highlighter-BloggerDV</h1>
+<p>A Syntax Highlighter for Blogger Dynamic Views, using <a href="https://github.com/alexgorbatchev">Alex Gorbatchev</a>'s<a href="https://github.com/alexgorbatchev/SyntaxHighlighter">SyntaxHighlighter</a>.<br />
+
+</p>
+<p>Credit obviously goes to Alex Gorbatchev for making this.<br />
+Also to <a href="http://blog.cruxframework.org/2011/10/easy-code-syntax-highlight-on-blogger.html">Crux Framework Blog</a> and <a href="http://codingthought.blogspot.be/2012/04/syntax-highlighting-in-blogger-dynamic.html">Coding Thought</a> Blog for aiding me and making this conversion a bit easier.
+</p>
+</html>
